@@ -1,0 +1,16 @@
+
+# Misc
+.gitconfig
+desktop.ini
+README.md.backup
+Downloads/
+LocalData/
+
+# Visual Studio
+.vs/
+x64/
+*.aps
+*.vcxproj.user
+
+# PyCharm
+.idea/
